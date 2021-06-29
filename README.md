@@ -3,4 +3,4 @@ this is a C# application that takes a list of names in a text time as a command 
 # Alogrithm
 the sorting algorithm iterates through characters in the last names first and if no conclusion is drawn, sorts by the first name and middle name together.
 # project structure
-The project is seperated into the main ConsoleApp2 solution and a TestProject1 solution. I'm not inimitably familiar with visual studio but I think it is as easy as opening these solutions seperatly and running.
+The project is seperated into the main ConsoleApp2 solution and a TestProject1 solution. To run, build the ConsoleApp2 and then TestProject1 which depends on it.
